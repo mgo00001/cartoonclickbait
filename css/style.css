@@ -1,0 +1,63 @@
+body {
+    background-color: ;
+}
+
+.wrapper {
+    background-color: ;
+    width: ;
+    height: ;
+    border: ;
+    border-radius: ;
+    padding: ;
+    margin-left: ;
+    margin-right: ;
+    position: ;
+}
+
+.banner {
+    background-color: ;
+    width: ;
+    height: ;
+    border: ;
+    border-radius: ;
+    padding: ;
+    margin-left: ;
+    margin-right: ;
+    position: ;
+}
+
+.content {
+    background-color: ;
+    width: ;
+    height: ;
+    border: ;
+    border-radius: ;
+    padding: ;
+    margin-left: ;
+    margin-right: ;
+    position: ;
+}
+
+#back {
+  position: ;
+  top: ;
+  left: ;
+  background-color: ;
+  width: ;
+  height: ;
+  border: ;
+  border-radius: ;
+  padding: ;
+  margin: ;
+  transition: ;
+}
+
+#back:hover {
+    transform: scale(1.3);
+    border-radius: ;
+}
+
+#next {
+    position: ;
+    t
+}
