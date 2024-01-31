@@ -1,5 +1,5 @@
 body {
-    background-color:#d5a401 ;
+    background-color:#e8b200 ;
 }
 
 .wrapper {
@@ -24,7 +24,7 @@ body {
   margin: auto;
     margin-top: 20px;
     margin-bottom: 50px;
-    border: 5px solid white; 
+    border: 5px solid #a40503; 
     border-radius: 25px;
     background-color: #ffe77c;
 }
@@ -55,7 +55,7 @@ body {
 #next {
     position: absolute ;
     top: 30;
-    right:300px ;
+   
     background-color:#ffe77c ;
     width:150px;
     margin: auto;
@@ -64,14 +64,16 @@ body {
     border-radius: 15px;
    padding: 10px;
    transition: .3s;
-    display: block;
+    display: inline-block;
     margin-top: 60px;
+    margin-left: 550px;
 }
 
 
 #next:hover {
     transform: scale(1.1);
     background-color: white;
+    
 }
 
 .pic {
@@ -93,6 +95,7 @@ text-align: center;
 white-space: nowrap;
 animation: typing 2.5s steps(40, end), blink-caret .75s step-end forwards 3;
 padding-top: 50px;
+
 
 
 
