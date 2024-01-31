@@ -5,7 +5,7 @@ body {
 .wrapper {
     background-color:#ffdf28;
     width: 1000px;
-    height: 1150px;
+    height: 860px;
     border: 5px solid #a40503;
     margin: auto;
     
@@ -20,8 +20,10 @@ body {
 
 .content {
   width: 900px;
+  height: 550px;
   margin: auto;
-    margin-top: 50px;
+    margin-top: 20px;
+    margin-bottom: 50px;
     border: 5px solid white; 
     border-radius: 25px;
     background-color: #ffe77c;
@@ -36,8 +38,8 @@ body {
    padding: 10px;
     margin: auto;
     transition: .3s;
-    margin-left: 200px;
-    margin-top: 50px;
+    margin-left: 170px;
+    margin-top: 60px;
   text-align: center;
   display: inline-block;
   
@@ -63,7 +65,7 @@ body {
    padding: 10px;
    transition: .3s;
     display: block;
-    margin-top: 50px;
+    margin-top: 60px;
 }
 
 
@@ -73,10 +75,10 @@ body {
 }
 
 .pic {
-    height: 400px;
+    height: 280px;
     display: block;
     margin: auto;
-    margin-bottom: 50px;
+    margin-bottom: 0px;
 }
 
 h1 {
@@ -89,7 +91,6 @@ font-weight: 400;
 font-style: normal;
 text-align: center;
 white-space: nowrap;
-
 animation: typing 2.5s steps(40, end), blink-caret .75s step-end forwards 3;
 padding-top: 50px;
 
@@ -120,7 +121,7 @@ font-style: normal;
     margin: auto;
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     margin-left: 20px;
     margin-right: 20px;
 }
@@ -139,7 +140,7 @@ p {
     font-family: "informapro", sans-serif;
 font-weight: 400;
 font-style: normal;
-    font-size: 27px;
+    font-size: 23px;
     margin: auto;
 margin-left: 50px;
 margin-right: 50px;
