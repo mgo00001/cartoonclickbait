@@ -1,5 +1,7 @@
+/*body and wrapper*/
+
 body {
-    background-color:#e8b200 ;
+    background-color:#978339 ;
 }
 
 .wrapper {
@@ -28,6 +30,9 @@ body {
     border-radius: 25px;
     background-color: #ffe77c;
 }
+
+
+/* next and back buttons*/
 
 #back {
   position:absolute ;
@@ -76,12 +81,16 @@ body {
     
 }
 
+/* pictures*/
+
 .pic {
     height: 280px;
     display: block;
     margin: auto;
     margin-bottom: 0px;
 }
+
+/*text*/
 
 h1 {
   
@@ -120,7 +129,7 @@ h2 {
 font-weight: 700;
 font-style: normal;
    
-    font-size: 37px ;
+    font-size: 38px ;
     margin: auto;
     text-align: center;
     margin-top: 20px;
